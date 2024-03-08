@@ -1,0 +1,43 @@
+# .NET Core and Visual Studio files
+.vscode/
+bin/
+obj/
+*.user
+*.vs
+*.suo
+*.cache
+*.log
+
+# Visual Studio Code
+.vscode/
+
+# NuGet Packages
+*.nupkg
+*.paket.restore.log
+paket-files/
+paket-files-cache/
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# MSTest test Results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+# Visual Studio profiler
+*.psess
+*.vsp
+*.vspx
+*.sap
